@@ -8,14 +8,9 @@ Header always set Content-Security-Policy: upgrade-insecure-requests
  
 
 # BEGIN WordPress
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteBase /
-RewriteRule ^index\.php$ - [L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.php [L]
-</IfModule>
+# Les directives (línies) entre "BEGIN WordPress" i "END WordPress" es generen dinàmicament i haurien de ser solament modificades mitjançant els filtres del WordPress.
+# Qualsevol canvi entre aquestes marques se sobreescriuran.
+
 # END WordPress
 
 # BEGIN cPanel-generated php ini directives, do not edit
