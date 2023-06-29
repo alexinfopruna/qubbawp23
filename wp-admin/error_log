@@ -1,0 +1,14 @@
+[01-Oct-2022 22:32:12 UTC] PHP Warning:  include_once(/home3/qubbanet/public_html/wp-admin/includes/plugin.php): failed to open stream: No such file or directory in /home3/qubbanet/public_html/wp-content/plugins/optimole-wp/inc/compatibilities/shortcode_ultimate.php on line 29
+[01-Oct-2022 22:32:12 UTC] PHP Warning:  include_once(): Failed opening '/home3/qubbanet/public_html/wp-admin/includes/plugin.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/qubbanet/public_html/wp-content/plugins/optimole-wp/inc/compatibilities/shortcode_ultimate.php on line 29
+[01-Oct-2022 22:32:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_plugin_active() in /home3/qubbanet/public_html/wp-content/plugins/optimole-wp/inc/compatibilities/shortcode_ultimate.php:31
+Stack trace:
+#0 /home3/qubbanet/public_html/wp-content/plugins/optimole-wp/inc/manager.php(129): Optml_shortcode_ultimate->should_load()
+#1 /home3/qubbanet/public_html/wp-includes/class-wp-hook.php(307): Optml_Manager->init('')
+#2 /home3/qubbanet/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 /home3/qubbanet/public_html/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#4 /home3/qubbanet/public_html/wp-settings.php(565): do_action('after_setup_the...')
+#5 /home3/qubbanet/public_html/wp-config.php(101): require_once('/home3/qubbanet...')
+#6 /home3/qubbanet/public_html/wp-load.php(50): require_once('/home3/qubbanet...')
+#7 /home3/qubbanet/public_html/admin-wp/admin.php(34): require_once('/home3/qubbanet...')
+#8 /home3/qubbanet/public_html/admin-wp/index.php(10): require_once('/home3/qubbanet...')
+#9  in /home3/qubbanet/public_html/wp-content/plugins/optimole-wp/inc/compatibilities/shortcode_ultimate.php on line 31

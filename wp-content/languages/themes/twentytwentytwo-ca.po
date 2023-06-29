@@ -1,0 +1,129 @@
+# Translation of Themes - Twenty Twenty-Two in Catalan
+# This file is distributed under the same license as the Themes - Twenty Twenty-Two package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-26 09:56:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ca\n"
+"Project-Id-Version: Themes - Twenty Twenty-Two\n"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Peu de pàgina"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Capçalera"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Buit"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundari"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principal"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fons"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Primer pla"
+
+#: inc/patterns/page-sidebar-poster.php:52
+msgid "Location"
+msgstr "Ubicació"
+
+#: inc/patterns/page-sidebar-poster.php:40
+msgid "Date"
+msgstr "Data"
+
+#: inc/patterns/page-sidebar-blog-posts-right.php:80
+msgid "Tags"
+msgstr "Etiquetes"
+
+#: inc/patterns/hidden-404.php:9
+msgctxt "Error code for a webpage that is not found."
+msgid "404"
+msgstr "404"
+
+#: inc/patterns/general-wide-image-intro-buttons.php:31
+msgid "Learn More"
+msgstr "Aprèn més"
+
+#: inc/patterns/general-pricing-table.php:71
+msgctxt "Third item in a numbered list."
+msgid "3"
+msgstr "3"
+
+#: inc/patterns/general-pricing-table.php:43
+msgctxt "Second item in a numbered list."
+msgid "2"
+msgstr "2"
+
+#: inc/patterns/general-pricing-table.php:15
+msgctxt "First item in a numbered list."
+msgid "1"
+msgstr "1"
+
+#: inc/patterns/general-large-list-names.php:30
+msgid "Read more"
+msgstr "Llegeix més"
+
+#. Translators: WordPress link.
+#: inc/patterns/footer-blog.php:49 inc/patterns/footer-dark.php:17
+#: inc/patterns/footer-default.php:17 inc/patterns/footer-logo.php:17
+#: inc/patterns/footer-navigation.php:19
+#: inc/patterns/footer-query-images-title-citation.php:34
+#: inc/patterns/footer-query-title-citation.php:32
+msgid "Proudly powered by %s"
+msgstr "Gràcies al %s"
+
+#: inc/patterns/footer-blog.php:31
+#: inc/patterns/page-sidebar-blog-posts-right.php:74
+msgid "Categories"
+msgstr "Categories"
+
+#: inc/patterns/footer-blog.php:23 inc/patterns/general-featured-posts.php:10
+msgid "Latest posts"
+msgstr "Les darreres entrades"
+
+#: inc/block-patterns.php:21
+msgid "Pages"
+msgstr "Pàgines"
+
+#: inc/block-patterns.php:20
+msgid "Query"
+msgstr "Consulta"
+
+#: inc/block-patterns.php:19
+msgid "Headers"
+msgstr "Capçaleres"
+
+#: inc/block-patterns.php:17
+msgid "Featured"
+msgstr "Destacades"
+
+#. Author URI of the theme
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "L'equip del WordPress"
