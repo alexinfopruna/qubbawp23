@@ -13,3 +13,8 @@ Template: customizr
 .tc-grid-border .grid__item {
     border-bottom: none;
 }
+
+figure.wp-block-image img{
+  width:40% !important;
+  margin:auto;
+}
