@@ -2824,3 +2824,4 @@ exit(0);
 1688080269_2213:"Notice: alex, 127.0.0.1; Revision status has been changed; details: ID: 802,Old status: new,New status: inherit,Title: la pera. La casa petita."
 1688080269_3582:"Notice: alex, 127.0.0.1; Post was updated; ID: 507; name: la pera. La casa petita."
 1688080269_5927:"Warning: alex, 127.0.0.1; Post deleted: (multiple entries): Post id: 801,Post author: 1,Post type: revision,Post status: inherit,Post inserted: 2023-06-29 23:11:01,Post modified: 2023-06-29 23:11:01,Post guid: http:\/\/qubba-localhost\/?p=801,Post title: la pera. La casa petita."
+1688080640_4358:"Error: alex, 127.0.0.1; Permalink settings changed: (multiple entries): permalink_structure: from '' to '\/%postname%\/'"

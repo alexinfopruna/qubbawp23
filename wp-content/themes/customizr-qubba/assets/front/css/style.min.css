@@ -269,6 +269,12 @@ margin:auto
     margin-bottom: 80px;
 }
 */
+
+#carouselExample{
+    width: 30%;
+    margin:auto;
+    
+}
 .czr-wp-the-content p{
     margin-bottom: 90px;
 }
