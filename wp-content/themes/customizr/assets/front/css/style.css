@@ -57,7 +57,7 @@ abbr[data-original-title] {
   text-decoration: underline;
   -webkit-text-decoration: underline dotted;
   text-decoration: underline dotted;
-  cursor: help;
+  zzzcursor: help;
   border-bottom: 0;
 }
 

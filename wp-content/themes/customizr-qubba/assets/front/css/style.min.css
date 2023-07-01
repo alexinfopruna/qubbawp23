@@ -305,14 +305,26 @@ margin:auto
  
 }  
 
+.modula-item .portrait,.wp-block-gallery figure img.portrait, .wp-block-gallery figure.portrait img{
+    /*transform: scale(0.8);*/
+    width:30% !important;
+       display: block;
+  margin-left    : auto;
+  margin-right    : auto;
+ 
+}  
+
+
+
 @media only screen and (max-width: 600px) {
 .modula-item .landscape, .wp-block-gallery figure img.landscape, .wp-block-gallery figure img{
   width:100% !important;
 }
  
     
-.modula-item .landscape, .wp-block-gallery figure img.landscape, .wp-block-gallery figure.portrait img{
-  width:80% !important;
+.wp-block-image img{
+  width:50% !important;
+  margin:auto;
 }
   
 
