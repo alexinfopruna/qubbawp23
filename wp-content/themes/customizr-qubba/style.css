@@ -9,12 +9,16 @@ Template: customizr
 */
  
 /*----------------- Cambios a partir de aquí -------------------------------*/
-
 .tc-grid-border .grid__item {
     border-bottom: none;
 }
 
 figure.wp-block-image img{
+  width:40% !important;
+  margin:auto;
+}
+
+figure.wp-block-image.portrait img{
   width:40% !important;
   margin:auto;
 }
