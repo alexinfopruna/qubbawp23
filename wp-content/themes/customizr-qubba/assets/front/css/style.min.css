@@ -157,11 +157,6 @@ dotted;outline:5px auto
     font-family: 'Spartan', sans-serif, "Source Sans Pro",Arial;
 }
 
-h1{
-
-    
-}
-
 .entry-header .entry-title{
         font-size: 1.6em;
     text-align: center;
@@ -182,15 +177,7 @@ h1{
 width:50%;
 margin:auto;
 }
-
-
-    
 }
-
-}
-
-
-
 
 .nav__search{display:none;}
 .nav__menu{font-size:0.85em}
@@ -217,7 +204,6 @@ margin:auto;
     width:170px;
     border:none;
     border-radius: 3px;
-    
     transition: background-color 0.5s;
 }
 
@@ -228,23 +214,9 @@ margin:auto;
      transition: background-color 0.5s;
 }
 
-
-
-
-
 .wp-block-gallery figcaption{display:none}
-
-
-
-
 
 @media only screen and (max-width: 600px) {
 .modula-item .landscape, .wp-block-gallery figure img.landscape, .wp-block-gallery figure img{
   width:100% !important;
 }
- 
-
-
-
-
-
