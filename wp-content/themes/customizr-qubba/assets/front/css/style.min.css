@@ -172,12 +172,6 @@ dotted;outline:5px auto
 }
 
 
-@media only screen and (min-width: 600px) {
-.entry-content p, .czr-wp-the-content p{
-width:50%;
-margin:auto;
-}
-}
 
 .nav__search{display:none;}
 .nav__menu{font-size:0.85em}
@@ -216,67 +210,90 @@ margin:auto;
 
 .wp-block-gallery figcaption{display:none}
 
+
+
+/**********************************************************************************************/
+
+
 @media only screen and (max-width: 600px) {
 .modula-item .landscape, .wp-block-gallery figure img.landscape, .wp-block-gallery figure img{
   width:100% !important;
 }
 }
 
-/**********************************************************************************************/
 
 .tc-grid-border .grid__item {
     border-bottom: none;
 }
 
 figure.wp-block-image img{
-  width:50% !important;
+  width:80% !important;
   margin:auto;
 }
 
 figure.wp-block-image.portrait img{
-  width:30% !important;
+  width:60% !important;
   margin:auto;
 }
 
-.modula-item .landscape, .wp-block-gallery figure img.landscape, .wp-block-gallery figure img{
-    /*transform: scale(0.8);*/
-  width:50% !important;
-  display: block;
-  margin-left    : auto;
-  margin-right    : auto;
-}
-.modula-item .portrait,.wp-block-gallery figure img.portrait, .wp-block-gallery figure.portrait img{
-    /*transform: scale(0.8);*/
-    width:30% !important;
-       display: block;
-  margin-left    : auto;
-  margin-right    : auto;
- 
-}  
 
-.modula-item .portrait,.wp-block-gallery figure img.portrait, .wp-block-gallery figure.portrait img{
-    /*transform: scale(0.8);*/
-    width:30% !important;
-       display: block;
-  margin-left    : auto;
-  margin-right    : auto;
- 
-}  
 
-#carouselExample{
-    width: 30%;
+.owl-carousel.sa_owl_themexxxx, .owl-carousel{
+    width: 80%;
     margin:auto;
-    
+    margin-bottom: 4.5em;
 }
+
+.czr-wp-the-content p{
+    margin-bottom: 90px;
+}
+
+
+.entry-content p, .czr-wp-the-content p{
+width:80%;
+margin:auto;
+}
+
+
+
+@media only screen 
+and (min-device-width : 1024px) 
+and (orientation : landscape)
+and (-webkit-min-device-pixel-ratio: 1)  { 
+    
+    
+    figure.wp-block-image img{
+      width:60% !important;
+      margin:auto;
+    }
+
+    figure.wp-block-image.portrait img{
+      width:40% !important;
+      margin:auto;
+    }
+
+    .owl-carousel.sa_owl_theme{
+        width:80%;
+        margin:auto;
+        margin-bottom: 4.5em;
+    }
+
+
+    .entry-content p, .czr-wp-the-content p{
+    width:60%;
+    margin:auto;
+    }
+
+}
+
+   .czr-wp-the-content p{
+        margin-bottom: 4.5em !important;
+    }
 
 figure.wp-block-image{
     margin-bottom: 4.5em;
 }
 
-
-.czr-wp-the-content p{
-    margin-bottom: 90px;
-}
 
 .wp-block-gallery figure img{
     margin-bottom: 4.5em !important;
@@ -284,11 +301,7 @@ figure.wp-block-image{
 
 .owl-item p{display: none;}
 
-.owl-carousel{
-    width:80%;
-margin:auto;
-margin-bottom: 4.5em;
-}
+
 
 
 .owl-pagination-true, .owl-loaded, .owl-pagination-true.owl-loaded{
