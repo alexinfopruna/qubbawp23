@@ -66,3 +66,11 @@ figure.wp-block-image{
 .wp-block-gallery figure img{
     margin-bottom: 4.5em !important;
 }
+
+.owl-item p{display: none;}
+
+.owl-carousel.sa_owl_theme{
+    width:80%;
+margin:auto;
+margin-bottom: 4.5em;
+}

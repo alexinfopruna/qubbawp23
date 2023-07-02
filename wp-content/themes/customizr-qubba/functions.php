@@ -21,7 +21,6 @@ add_action( 'wp_enqueue_scripts', 'my_theme_enqueue_styles' );
 /* Custom script with no dependencies, enqueued in the header */
 add_action('wp_enqueue_scripts', 'qubba_enqueue_custom_js');
 function qubba_enqueue_custom_js() {
-    //echo get_stylesheet_directory_uri().'/qubba.js';die();
     wp_enqueue_script('custom', get_stylesheet_directory_uri().'/qubba.js',array('jquery'), '', true);
     wp_enqueue_script('bootstrap', 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js');
 }

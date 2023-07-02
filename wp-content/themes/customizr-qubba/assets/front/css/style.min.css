@@ -96,21 +96,11 @@ dotted;outline:5px auto
 }
 }
     
-/* thumbnails 
-.tc-grid-figure, .tc-grid-figure img{
-    height: 250px;
-}
-
-img.v-centered {
-     height: auto!important;
-    }
-*/
     /* thumbnails */
     
 .grid-container__classic .expanded.hover .entry-summary, .grid-container__classic 
 .grid-item:not(.expanded).hover .tc-grid-caption  .tc-g-cont.czr-talign {
     opacity: 1;
-  /*  background: #fafafa;*/
     background-color: rgba(0,0,0,.2 );
     color: #fff;
 }
@@ -185,13 +175,7 @@ h1{
     text-align:justify;
     margin:auto;
 }
-/*
-@media only screen and (min-width: 992px) {
-.entry-content p{
-    width:90%;
-}
-}
-*/
+
 
 @media only screen and (min-width: 600px) {
 .entry-content p, .czr-wp-the-content p{
@@ -199,9 +183,7 @@ width:50%;
 margin:auto;
 }
 
-.owl-carousel.sa_owl_theme{
-    width:55%;
-margin:auto;
+
     
 }
 
@@ -209,12 +191,7 @@ margin:auto;
 
 
 
-/*
-.entry-content p{
-width:90%;
-margin:auto
-}
-*/
+
 .nav__search{display:none;}
 .nav__menu{font-size:0.85em}
 
@@ -250,69 +227,14 @@ margin:auto
      background-color: rgba(59,59,59,.8);
      transition: background-color 0.5s;
 }
-/*
-.modula.modula-gallery{
-    margin-bottom:100px;
-}
 
-.modula-gallery .modula-item{
-    cursor:initial !important;
-}
-*/
-/*
-.modula-item{
-    transform: scale(0.8) !important;
-}*/
 
-/*
-.wp-block-gallery{
-    margin-bottom: 80px;
-}
-*/
 
-#carouselExample{
-    width: 30%;
-    margin:auto;
-    
-}
-.czr-wp-the-content p{
-    margin-bottom: 90px;
-}
 
-.wp-block-gallery figure img{
-    margin-bottom: 80px !important;
-}
 
 .wp-block-gallery figcaption{display:none}
-/*
-.wp-block-image{
-    margin-bottom: 50px;
-}
-*/
-.modula-item .landscape, .wp-block-gallery figure img.landscape, .wp-block-gallery figure img{
-    /*transform: scale(0.8);*/
-  width:50% !important;
-  display: block;
-  margin-left    : auto;
-  margin-right    : auto;
-}
-.modula-item .portrait,.wp-block-gallery figure img.portrait, .wp-block-gallery figure.portrait img{
-    /*transform: scale(0.8);*/
-    width:30% !important;
-       display: block;
-  margin-left    : auto;
-  margin-right    : auto;
- 
-}  
 
-.modula-item .portrait,.wp-block-gallery figure img.portrait, .wp-block-gallery figure.portrait img{
-    /*transform: scale(0.8);*/
-    width:30% !important;
-       display: block;
-  margin-left    : auto;
-  margin-right    : auto;
- 
-}  
+
 
 
 
