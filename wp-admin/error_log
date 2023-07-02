@@ -12,3 +12,26 @@ Stack trace:
 #7 /home3/qubbanet/public_html/admin-wp/admin.php(34): require_once('/home3/qubbanet...')
 #8 /home3/qubbanet/public_html/admin-wp/index.php(10): require_once('/home3/qubbanet...')
 #9  in /home3/qubbanet/public_html/wp-content/plugins/optimole-wp/inc/compatibilities/shortcode_ultimate.php on line 31
+[02-Jul-2023 12:03:45 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:03:45 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:03:57 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:03:57 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:39:36 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:39:36 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:39:36 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:42:17 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:42:17 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:42:17 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:42:17 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:43:11 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:43:11 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:43:11 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:43:11 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:54:25 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:54:25 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:54:25 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:54:25 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:57:48 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:57:48 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:57:48 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
+[02-Jul-2023 12:57:48 UTC] PHP Warning:  Undefined variable $preview_button in /home3/qubbanet/public_html/wp-content/plugins/slide-anything/php/slide-anything-admin.php on line 1315
