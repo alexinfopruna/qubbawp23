@@ -18,3 +18,7 @@ figure.wp-block-image img{
   width:40% !important;
   margin:auto;
 }
+
+figure.wp-block-image{
+    margin-bottom: 4.5em;
+}
