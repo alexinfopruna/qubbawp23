@@ -254,6 +254,17 @@ width:80%;
 margin:auto;
 }
 
+@media only screen 
+and (max-device-width : 1023px) 
+and (orientation : portrait)
+and (-webkit-min-device-pixel-ratio: 1)  { 
+  .czr-wp-the-content .sa_owl_theme .owl-nav button, .sa_owl_theme .owl-nav button {
+
+        display:none;
+    } 
+}
+
+
 
 
 @media only screen 
